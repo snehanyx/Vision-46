@@ -31,12 +31,19 @@ VISION-46 is a browser-based assistive system for real-time **object detection**
 ---
 
 ## 🔧 Dependencies (via CDN)
-- TensorFlow.js
-- COCO-SSD Model
-- Tesseract.js (OCR)
+- TensorFlow.js – Machine learning framework for object detection.
+- Tesseract.js (OCR)– OCR engine for text recognition.
+-JavaScript & JS Libraries – Core development framework.
+-HTML & CSS – Structured UI for accessibility and responsiveness.
 - Web Speech API
 
 ---
+## 🔧 Future Improvements
+-Improve object detection accuracy by integrating custom-trained deep learning models tailored for specific use cases.
+-Extend text-to-speech functionality to support multiple languages and regional accents for broader accessibility.
+-Implement AI-based scene description to provide users with richer and more context-aware environmental feedback.
+
+
 
 ## 📄 License
 MIT – Open to modify and use for accessibility or educational tools
