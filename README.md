@@ -1,5 +1,5 @@
 # Vision-46
-### ✅ README.md Content:
+
 ```markdown
 # 👁️ VISION-46 – AI-Based Object Detection & Navigation Web App
 
