@@ -1,6 +1,3 @@
-# Vision-46
-
-```markdown
 # 👁️ VISION-46 – AI-Based Object Detection & Navigation Web App
 
 VISION-46 is a browser-based assistive system for real-time **object detection**, **text reading**, and **voice-guided navigation**, built using JavaScript, TensorFlow.js, and Tesseract.js.
